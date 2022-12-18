@@ -27,3 +27,41 @@ ul{
     text-decoration: none;
     color: violet;    
 }
+.main-info{
+    display: flex;
+
+}
+.main-name{
+    margin-left: 100px;
+}
+.main-name h1{ 
+    color: violet;
+    font-style:normal;
+    font-size: 36px;
+}
+.main-name p{
+    font-size: 24px;
+}
+.main{
+    background-color: gainsboro;
+}
+.main-centre{
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.main-about, .main-contacts, .main-skills{
+    width: 350px;
+}
+body{
+    font-size: 20px;
+}
+
+.main-projects{
+    margin: 0 auto;
+   width: 350px;
+}
+
+.main-projects__title {
+    text-align: center;
+}
