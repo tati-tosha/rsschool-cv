@@ -65,3 +65,10 @@ body{
 .main-projects__title {
     text-align: center;
 }
+.footer__list{   
+    margin: 0;
+}
+a{
+    text-decoration:none;
+    color: violet;
+}
